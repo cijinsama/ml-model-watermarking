@@ -30,6 +30,6 @@ setuptools.setup(
         'Intended Audience :: Developers',
         'Development Status :: 3 - Alpha'
     ],
-    python_requires='>3.5, <3.10',
+    python_requires='>3.5, <3.11',
     keywords='watermarking SAP',
 )

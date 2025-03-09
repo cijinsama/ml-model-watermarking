@@ -1,6 +1,6 @@
 cryptography
 numpy
-sklearn
+scikit-learn
 torch
 transformers
 datasets
